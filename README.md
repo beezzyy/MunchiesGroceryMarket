@@ -4,7 +4,6 @@
 
 ## Technologies
 <details>
-<details>
 <summary>Front-End</summary>
     HTML5 <br>
     CSS Styling <br>
@@ -15,7 +14,6 @@
 <summary>Back-end</summary>
     PHP <br>
     JavaScript<br>
-</details>
 </details>
 
 WEBSITE LINK: https://munchies-market.herokuapp.com/index.php

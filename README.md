@@ -1,2 +1,23 @@
-Link: https://munchies-market.herokuapp.com/index.php
 
+
+# Grocery e-Commerce Website
+
+## Technologies
+<details>
+<details>
+<summary>Front-End</summary>
+    HTML5 <br>
+    CSS Styling <br>
+    JavaScript<br>
+</details>
+
+<details>
+<summary>Back-end</summary>
+    PHP <br>
+    JavaScript<br>
+</details>
+</details>
+
+WEBSITE LINK: https://munchies-market.herokuapp.com/index.php
+
+    

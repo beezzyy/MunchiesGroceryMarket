@@ -16,6 +16,6 @@
     JavaScript<br>
 </details>
 
-WEBSITE LINK: https://munchies-market.herokuapp.com/index.php
+WEBSITE LINK: https://616241d1939c251c36c7bc13--angry-jackson-1a8519.netlify.app/home
 
     
